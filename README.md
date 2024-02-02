@@ -10,7 +10,7 @@ Neste commit inicial, foram adicionados os seguintes componentes e funcionalidad
 
 - Configuração básica do projeto Spring Boot.
 - Implementação das operações CRUD para interação com o banco de dados.
-- Estrutura inicial para a camada de controller, service e DTO.
+- Estrutura inicial para a camada de controller, service e repository.
 - Integração com o Spring Tools para facilitar o desenvolvimento e a gestão de dependências.
 
 ## Recursos Implementados
@@ -23,8 +23,8 @@ Neste commit inicial, foram adicionados os seguintes componentes e funcionalidad
 
 2. **Estrutura do Projeto:**
    - Camada de Controller: Responsável pela comunicação com a interface do usuário.
-   - Camada de Service: Lógica de negócios e interação com o banco de dados.
-   - Camada de DTO: Representação dos objetos de dados.
+   - Camada de Repository: Lógica de negócios e interação com o banco de dados.
+   - Camada de Service: Representação dos objetos de dados.
 
 3. **Integração com o Spring Tools:**
    - Utilização de ferramentas do Spring para facilitar o desenvolvimento e a manutenção do projeto.
